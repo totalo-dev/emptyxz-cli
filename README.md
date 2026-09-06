@@ -1,5 +1,3 @@
-# `emptyxz`
-
 <p align="center">
   <strong>A better starting point for Next.js.</strong>
 </p>
@@ -11,219 +9,11 @@
 <p align="center">
   <a href="https://emptyxz.dev">Website</a>
   ·
-  <a href="#-português">Português</a>
-  ·
-  <a href="#-english">English</a>
+  <a href="./docs/README-ptbr.md">Português</a>
+  
 </p>
 
-<br />
-
-<p align="center">
-
-![npm](https://img.shields.io/npm/v/emptyxz?style=flat-square\&color=red)
-![npm downloads](https://img.shields.io/npm/dm/emptyxz?style=flat-square)
-![License](https://img.shields.io/npm/l/emptyxz?style=flat-square)
-
-</p>
-
----
-
-# 🇧🇷 Português
-
-## O que é?
-
-**emptyxz** é uma CLI para criar projetos **Next.js + TypeScript** com uma base inicial limpa, moderna e pronta para desenvolvimento.
-
-Em vez de começar com um projeto vazio e gastar tempo configurando a mesma estrutura toda vez, basta executar:
-
-```bash
-npx emptyxz init
-```
-
-E começar a construir.
-
-> **Menos configuração. Mais código.**
-
----
-
-## ✦ Por que emptyxz?
-
-Criar um projeto Next.js é fácil.
-
-Criar uma **boa base para começar** é outra história.
-
-O emptyxz foi criado para eliminar aquela configuração inicial repetitiva e entregar uma estrutura simples, organizada e fácil de evoluir.
-
-### ⚡ Rápido
-
-Crie um projeto em poucos segundos.
-
-### 🔷 TypeScript
-
-TypeScript desde o primeiro arquivo.
-
-### 🧱 Estrutura limpa
-
-Uma base simples, sem abstrações desnecessárias.
-
-### 🧹 Minimalista
-
-Sem dezenas de dependências que você talvez nunca use.
-
-### 🚫 Sem `AGENTS.md`
-
-O projeto não adiciona arquivos ou configurações específicas para agentes de IA.
-
-### 🎯 Seu projeto, suas decisões
-
-O emptyxz não tenta decidir toda a arquitetura da sua aplicação.
-
-Ele entrega o ponto de partida.
-
----
-
-## 🚀 Começando
-
-Execute:
-
-```bash
-npx emptyxz init
-```
-
-Depois entre no projeto:
-
-```bash
-cd seu-projeto
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-E inicie o servidor:
-
-```bash
-npm run dev
-```
-
-Agora você pode acessar:
-
-```text
-http://localhost:3000
-```
-
----
-
-## 📦 O que vem no template?
-
-O emptyxz começa com uma base focada no essencial:
-
-* Next.js
-* React
-* TypeScript
-* App Router
-* ESLint
-* CSS
-* Estrutura inicial organizada
-* Configuração moderna
-* Sem `AGENTS.md`
-
-### Estrutura
-
-```text
-your-project/
-│
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-│
-├── public/
-│
-├── package.json
-├── tsconfig.json
-├── next.config.ts
-└── eslint.config.mjs
-```
-
-A estrutura é propositalmente simples.
-
-Conforme o projeto cresce, você pode adicionar as ferramentas e abstrações que realmente fazem sentido para ele.
-
----
-
-## 🛠️ Comandos
-
-### Criar um projeto
-
-```bash
-npx emptyxz init
-```
-
-
----
-
-## 🧠 Filosofia
-
-### Start empty. Build anything.
-
-O emptyxz não quer ser um framework em cima do Next.js.
-
-Ele é apenas um **ponto de partida melhor**.
-
-Você pode adicionar:
-
-```text
-Tailwind
-shadcn/ui
-Zustand
-GSAP
-Framer Motion
-Prisma
-Drizzle
-tRPC
-...
-```
-
-O projeto é seu.
-
-A stack também.
-
----
-
-## 🌐 Website
-
-Visite:
-
-**https://emptyxz.dev**
-
----
-
-## 🤝 Contribuindo
-
-Encontrou um bug?
-
-Tem uma ideia?
-
-Melhorias são sempre bem-vindas.
-
-Abra uma **Issue** ou envie um **Pull Request**.
-
----
-
-## 📄 Licença
-
-MIT © emptyxz
-
----
-
-<br />
-
-# 🇺🇸 English
-
-## What is it?
+# What is it?
 
 **emptyxz** is a CLI for creating **Next.js + TypeScript** projects with a clean, modern and production-ready starting point.
 
@@ -378,32 +168,35 @@ tRPC
 ...
 ```
 
-It's your project.
+# Your project. Your stack.
 
-Your stack.
-
----
-
-## 🌐 Website
-
-Visit:
-
-**https://emptyxz.dev**
+🌐 Website -  **https://emptyxz.dev**
 
 ---
 
 ## 🤝 Contributing
 
-Found a bug?
+- Found a bug?
 
-Have an idea?
+- Have an idea?
 
-Contributions are welcome.
+- Be a colaborator, Contributions are welcome! 🤗
 
-Open an **Issue** or submit a **Pull Request**.
+- Open an [**Issue**⚠️](https://github.com/empt1xz/emptyxz-cli/issues) or submit a [**Pull Request** 📩](https://github.com/empt1xz/emptyxz-cli/pulls).
 
 ---
 
 ## 📄 License
 
-MIT © emptyxz
+[MIT ©](LICENSE)
+
+
+<p align="center">
+
+![npm](https://img.shields.io/npm/v/emptyxz?style=flat-square\&color=red)
+
+![npm downloads](https://img.shields.io/npm/dm/emptyxz?style=flat-square)
+
+![License](https://img.shields.io/npm/l/emptyxz?style=flat-square)
+
+</p>
